@@ -96,5 +96,11 @@
                 android:text="+7 (911)111-11-11" />
         </LinearLayout>
 
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CheckBox" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
